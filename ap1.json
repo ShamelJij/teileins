@@ -1,0 +1,52 @@
+[
+    {
+        "year": 2021,
+        "season": "Herbst",
+        "exam": "AP1",
+        "situation": "This is the situation for the 2021 Herbst AP1 exam.",
+        "aufgaben": [
+            {
+                "title": "Aufgabe 1",
+                "subAufgaben": [
+                    {
+                        "title": "SubAufgabe 1.1",
+                        "description": "Description for SubAufgabe 1.1",
+                        "image": "path/to/image1.jpg"
+                    },
+                    {
+                        "title": "SubAufgabe 1.2",
+                        "description": "Description for SubAufgabe 1.2",
+                        "image": "path/to/image2.jpg"
+                    }
+                ]
+            },
+            {
+                "title": "Aufgabe 2",
+                "subAufgaben": [
+                    {
+                        "title": "SubAufgabe 2.1",
+                        "description": "Description for SubAufgabe 2.1"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "year": 2022,
+        "season": "Frühjahr",
+        "exam": "AP1",
+        "situation": "This is the situation for the 2022 Frühjahr AP1 exam.",
+        "aufgaben": [
+            {
+                "title": "Aufgabe 1",
+                "subAufgaben": [
+                    {
+                        "title": "SubAufgabe 1.1",
+                        "description": "Description for SubAufgabe 1.1",
+                        "image": "path/to/image3.jpg"
+                    }
+                ]
+            }
+        ]
+    }
+]
